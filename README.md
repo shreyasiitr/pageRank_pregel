@@ -1,1 +1,1 @@
-# distributed_WordCount
+# pageRank_pregel
